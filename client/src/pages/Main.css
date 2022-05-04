@@ -1,0 +1,16 @@
+.main {
+  min-height: 90vh;
+  display: flex;
+  align-items: center;
+  
+  background-position: center;
+  background-size: cover;
+}
+
+.intro-text {
+    text-align: center;
+}
+
+.register {
+    padding-left: 10px;
+}
