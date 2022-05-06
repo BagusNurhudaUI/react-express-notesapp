@@ -23,7 +23,7 @@ function Header ()  {
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="m-auto">
             {(
-              <Form inline>
+              <Form >
                 <FormControl
                   type="text"
                   placeholder="Search"
